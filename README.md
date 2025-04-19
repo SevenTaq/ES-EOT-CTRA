@@ -1,17 +1,3 @@
-# ES-EOT
-
-If you use the code, please cite our paper:
-
-```text
-@article{deng20243d,
-  title={3D Extended Object Tracking by Fusing Roadside Sparse Radar Point Clouds and Pixel Keypoints},
-  author={Jiayin Deng and Zhiqun Hu and Yuxuan Xia and Zhaoming Lu and Xiangming Wen},
-  journal={arXiv preprint arXiv:2404.17903},
-  year={2024},
-  doi={2404.17903}
-}
-```
-
 ## Installation
 
 * Clone the repository and cd to it.
